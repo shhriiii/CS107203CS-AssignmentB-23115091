@@ -1,0 +1,8 @@
+{
+  "python_version": "3.13.16",
+  "pytorch_version": "2.14.1+cu130",
+  "torchvision_version": "0.29.1+cu130",
+  "cuda_available": true,
+  "gpu_name": "Tesla T4",
+  "seed": 42
+}
